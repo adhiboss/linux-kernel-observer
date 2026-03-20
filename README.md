@@ -37,3 +37,13 @@ Features
 - System load analysis
 - Memory statistics
 - Direct interaction with kernel telemetry interfaces
+## Kernel Time-Travel Recorder
+
+Experimental tool that records system runtime snapshots so kernel
+behavior can be replayed later for analysis.
+
+Features:
+- CPU core state history
+- memory usage timeline
+- process activity tracking
+- time-series system replay
