@@ -27,3 +27,13 @@ This project explores ideas inspired by the Linux kernel.
 
 Reference:
 https://github.com/torvalds/linux
+## Kernel Telemetry Tool
+
+A low-level C program that reads Linux kernel telemetry directly from `/proc`.
+
+Features
+
+- Kernel version inspection
+- System load analysis
+- Memory statistics
+- Direct interaction with kernel telemetry interfaces
