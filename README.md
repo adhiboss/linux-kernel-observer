@@ -12,7 +12,6 @@ Features
 
 Goal: explore how the Linux kernel exposes runtime telemetry to userspace.
 
-Inspired by the work of @torvalds and the Linux kernel community.
 ## Assembly Kernel Syscall Demo
 
 This program demonstrates how Linux system calls work directly from
@@ -23,3 +22,8 @@ It uses the syscall interface to:
 - write to stdout
 - retrieve process id
 - exit the program
+Inspired by the work of @torvalds and the Linux kernel community.
+This project explores ideas inspired by the Linux kernel.
+
+Reference:
+https://github.com/torvalds/linux
